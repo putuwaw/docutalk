@@ -183,7 +183,7 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycares==4.3.0
 pycparser==2.21
-pydantic==1.10.12
+pydantic==2.3.0
 pydeck==0.8.0
 Pygments==2.16.1
 PyJWT==2.8.0
