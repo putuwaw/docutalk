@@ -271,7 +271,7 @@ uritemplate==4.1.1
 urllib3==1.26.16
 validators==0.21.0
 watchdog==3.0.0
-weaviate-client==3.23.2
+weaviate-client==3.24.1
 websocket-client==1.6.2
 Werkzeug==2.3.7
 wget==3.2
