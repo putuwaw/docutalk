@@ -115,7 +115,7 @@ lazy_loader==0.3
 libclang==16.0.6
 libdeeplake==0.0.60
 librosa==0.10.1
-llama-index==0.8.23.post1
+llama-index==0.8.26.post1
 llvmlite==0.40.1
 loguru==0.7.1
 lxml==4.9.3
