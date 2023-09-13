@@ -90,7 +90,7 @@ hpack==4.0.0
 html2text==2020.1.16
 httpcore==0.17.3
 httplib2==0.22.0
-httpx==0.24.1
+httpx==0.25.0
 huggingface-hub==0.16.4
 humbug==0.3.2
 hyperframe==6.0.1
