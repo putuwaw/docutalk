@@ -21,7 +21,7 @@ audioread==3.0.0
 Authlib==1.2.1
 awadb==0.3.10
 azure-ai-formrecognizer==3.3.0
-azure-ai-vision==0.11.1b1
+azure-ai-vision==0.15.1b1
 azure-cognitiveservices-speech==1.32.1
 azure-common==1.1.28
 azure-core==1.29.1
