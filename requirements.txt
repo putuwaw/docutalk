@@ -50,7 +50,7 @@ deeplake==3.6.25
 Deprecated==1.2.14
 dill==0.3.7
 dnspython==2.4.2
-docarray==0.32.1
+docarray==0.39.0
 docker==6.1.3
 duckduckgo-search==3.8.5
 elastic-transport==8.4.0
