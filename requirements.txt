@@ -38,7 +38,7 @@ cachetools==5.3.1
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
-clarifai==9.8.0
+clarifai==9.10.2
 clarifai-grpc==9.8.0
 click==8.1.7
 clickhouse-connect==0.5.25
