@@ -144,7 +144,7 @@ nest-asyncio==1.5.7
 networkx==2.8.8
 nlpcloud==1.1.44
 nltk==3.8.1
-nomic==1.1.14
+nomic==3.0.3
 numba==0.57.1
 numcodecs==0.11.0
 numexpr==2.8.5
