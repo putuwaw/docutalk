@@ -106,7 +106,7 @@ jsonlines==4.0.0
 jsonschema==4.19.0
 jsonschema-specifications==2023.7.1
 keras==2.13.1
-lancedb==0.1.16
+lancedb==0.5.6
 langchain==0.0.285
 langkit==0.0.19
 langsmith==0.0.35
