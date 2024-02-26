@@ -187,7 +187,7 @@ pydantic==1.10.12
 pydeck==0.8.0
 Pygments==2.16.1
 PyJWT==2.8.0
-pylance==0.5.10
+pylance==0.9.19
 pymongo==4.5.0
 Pympler==1.0.1
 pyowm==3.3.0
